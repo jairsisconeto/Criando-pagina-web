@@ -1,3 +1,5 @@
+![Pensamentos em união](https://github.com/user-attachments/assets/dc167491-e1df-4540-bb18-fc1609b56d0f)
+
 <body>
 <img src="./assets/img/Pensamentos%20em%20união.png" alt="IA Generativa" width="500" height="auto">
 <h1>"A Conexão Entre Pensamento Humano e IA"</h1>
