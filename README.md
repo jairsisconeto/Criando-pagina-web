@@ -1,7 +1,27 @@
 ![Pensamentos em união](https://github.com/user-attachments/assets/dc167491-e1df-4540-bb18-fc1609b56d0f)
+<!-- <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IA Generativa</title>
+</head>
 
+<style>
+    ul {
+        list-style-type: none;
+    }
+    img {
+        display: block; /* Centraliza a imagem em relação ao elemento pai */
+        margin: 0 auto; /* Centraliza a imagem horizontalmente */
+        border: 5px solid #0078D7; /* Adiciona uma borda para destaque */
+        border-radius: 10px; /* Cantos arredondados */
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5); /* Adiciona uma sombra elegante */
+    }
+
+</style> -->
 <body>
-<img src="./assets/img/Pensamentos%20em%20união.png" alt="IA Generativa" width="500" height="auto">
+<!--<img src="./assets/img/Pensamentos%20em%20união.png" alt="IA Generativa" width="500" height="auto">-->
 <h1>"A Conexão Entre Pensamento Humano e IA"</h1>
 <p><strong>Vivemos em uma era onde o pensamento humano e a integração da inteligência artificial estão transformando
     possibilidades em realidades. Imagine o poder de nossas ideias, combinadas com a capacidade da IA de aprender,
